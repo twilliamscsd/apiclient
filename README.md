@@ -17,7 +17,7 @@ Under the project Csd.Api.ClientConsole, set the values for "ApplicationId" and 
     "Domain": "CommSvcsDev.onmicrosoft.com",
     "ApplicationId": "",
     "SecretKeyValue": "",
-    "DwellingExclusionsURL": "https://services.csd.ca.gov/api/dwellingexclusions"
+    "CsdApiUrl": "https://services-test.csd.ca.gov/api"
   }
 }
 ```
